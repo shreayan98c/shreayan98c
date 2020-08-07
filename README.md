@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm an aspiring data scientist, a machine learning engineer and a web developer!
+### I'm an aspiring data scientist, a machine learning engineer and a web developer!
 - 🔭 I’m currently researching and experimenting on ML and NLP!
 - 🌱 I’m currently learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <img align="left" alt="shreayan98c's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreayan98c&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
 ---
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c)](https://github.com/anuraghazra/github-readme-stats)
 
