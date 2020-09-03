@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### Github Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c)](https://shreayan98c.github.io/)
 
 <img align="left" alt="shreayan98c's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreayan98c&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
