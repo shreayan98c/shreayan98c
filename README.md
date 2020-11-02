@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="shreayan98c's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreayan98c&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&theme=tokyonight" />
 
 [website]: https://shreayan98c.github.io/
 [twitter]: https://twitter.com/ShreayanC
