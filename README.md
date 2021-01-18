@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm an aspiring data scientist, a machine learning engineer and a web developer!
-- 🔭 I’m currently researching and experimenting on ML and NLP!
-- 🌱 I’m currently learning something new everyday.
+### I'm a machine learning engineer specialized in Recommender Systems and NLP. I like solving complex problems revolving around data. I am also a secondary web developer!
+- 🔭 I’m currently researching and experimenting on deep neural networks and transfer learning!
+- 🌱 I’m learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-- 🥅 2020 Goals: Participate in more Hackathons and contribute more to Open Source projects.
+- 🥅 2021 Goals: Participate in more Hackathons and contribute more to Open Source projects.
 - ⚡ Fun fact: I love chess and play keyboard. In my freetime, I also play soccer.
 
 ### Connect with me:
