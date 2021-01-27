@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a machine learning engineer specialized in Recommender Systems and NLP. I like solving complex problems revolving around data. I am also a secondary web developer!
+### I'm a Machine Learning Engineer specialized in Recommender Systems and NLP. I like solving complex problems revolving around data. I am also a secondary web developer!
 - 🔭 I’m currently researching and experimenting on deep neural networks and transfer learning!
 - 🌱 I’m learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
