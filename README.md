@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently researching and experimenting on deep neural networks and transfer learning!
 - 🌱 I’m learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-- 🥅 2021 Goals: Participate in more Hackathons and contribute more to Open Source projects.
+- 🥅 2022 Goals: Participate in more Hackathons and contribute more to Open Source projects.
 - ⚡ Fun fact: I love chess and play keyboard. In my freetime, I also play soccer.
 
 ### Connect with me:
