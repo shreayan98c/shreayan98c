@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### I'm a Machine Learning Engineer specialized in Recommender Systems and NLP. I like solving complex problems revolving around data. I am also a secondary web developer!
-- 🔭 I’m currently researching and experimenting on deep neural networks and transfer learning!
+- 🔭 I’m currently researching and experimenting on deep neural networks, transfer learning and LLMs!
 - 🌱 I’m learning something new everyday.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-- 🥅 2022 Goals: Participate in more Hackathons and contribute more to Open Source projects.
-- ⚡ Fun fact: I love chess and play keyboard. In my freetime, I also play soccer.
+- 🥅 2023 Goals: Participate in more Hackathons and contribute more to Open Source projects.
+- ⚡ Fun fact: I love astronomy and space. I play chess and some tunes on the keyboard. In my freetime, I also play soccer.
 
 ### Connect with me:
 
@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&theme=tokyonight" />
 
-[website]: https://shreayan98c.github.io/
+[website]: https://www.cs.jhu.edu/~schaud31/
 [twitter]: https://twitter.com/ShreayanC
-[instagram]: https://www.instagram.com/shreayan98c/
+[instagram]: https://www.instagram.com/sheruuu98c/
 [linkedin]: https://www.linkedin.com/in/shreayan98c/
 [facebook]: https://www.facebook.com/shreayan.chaudhary
 [kaggle]: https://www.kaggle.com/shreayan98c
