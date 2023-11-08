@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a Machine Learning Engineer specialized in NLP, Computer Vision, and Recommender Systems. I like solving complex problems revolving around data. I am also a secondary web developer!
-- 🔭 I’m currently researching and experimenting on multimodal Vision-Language Models!
-- 🌱 I’m learning something new everyday.
+### I'm a Machine Learning Engineer specializing in NLP, Computer Vision, and Recommender Systems. I like solving complex problems revolving around data. I am also a secondary web developer!
+- 🔭 I’m currently researching and experimenting with multimodal Vision-Language Models!
+- 🌱 I’m learning something new every day.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
 - 🥅 2023 Goals: Participate in more Hackathons and contribute more to Open Source projects.
-- 💬 Ask me about Space, Music and ML related stuff.
-- ⚡ Fun fact: I love astronomy and space. I play chess and some tunes on the keyboard. In my freetime, I also play soccer.
+- 💬 Ask me about Space, Music, and ML-related stuff.
+- ⚡ Fun fact: I love astronomy and space. I play chess and some tunes on the keyboard. In my free time, I also play soccer.
 
 ### Connect with me:
 
