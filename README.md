@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a Machine Learning Engineer specializing in NLP, Computer Vision, and Recommender Systems. I like solving complex problems revolving around data. I am also a secondary web developer!
+### I'm a Machine Learning Engineer specializing in multimodal AI - NLP and Computer Vision, and Recommender Systems. I like solving complex problems revolving around data!
 - 🔭 I’m currently researching and experimenting with multimodal Vision-Language Models!
 - 🌱 I’m learning something new every day.
 - 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-- 🥅 2023 Goals: Participate in more Hackathons and contribute more to Open Source projects.
+- 🥅 2025 Goals: Participate in more Hackathons and contribute more to Open Source projects.
 - 💬 Ask me about Space, Music, and ML-related stuff.
 - ⚡ Fun fact: I love astronomy and space. I play chess and some tunes on the keyboard. In my free time, I also play soccer.
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&theme=tokyonight" />
 
-[website]: https://www.cs.jhu.edu/~schaud31/
+[website]: https://shreayan98c.github.io/
 [twitter]: https://twitter.com/ShreayanC
 [instagram]: https://www.instagram.com/sheruuu98c/
 [linkedin]: https://www.linkedin.com/in/shreayan98c/
