@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### I'm a Machine Learning Engineer specializing in multimodal AI - NLP and Computer Vision, and Recommender Systems. I like solving complex problems revolving around data!
 - 🔭 I’m currently researching and experimenting with multimodal Vision-Language Models!
 - 🌱 I’m learning something new every day.
-- 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-- 🥅 2025 Goals: Participate in more Hackathons and contribute more to Open Source projects.
+- 👯 I’m looking to collaborate with other developers to win Hackathons and Open Source contributions.
+- 🥅 2026 Goals: Participate in more Hackathons and contribute more to Open Source projects.
 - 💬 Ask me about Space, Music, and ML-related stuff.
 - ⚡ Fun fact: I love astronomy and space. I play chess and some tunes on the keyboard. In my free time, I also play soccer.
 
@@ -53,13 +53,6 @@ Here are some ideas to get you started:
 <br />
 
 ---
-
-### Github Stats:
-
-
-<img align="left" alt="shreayan98c's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreayan98c&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&theme=tokyonight" />
 
 [website]: https://shreayan98c.github.io/
 [twitter]: https://twitter.com/ShreayanC
